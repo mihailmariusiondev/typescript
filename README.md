@@ -1,3 +1,9 @@
+# Enlace al curso
+
+https://www.udemy.com/course/angular-fernando-herrera/
+
+---
+
 # Proyecto para reforzar TypeScript - ECMAScript 20XX
 
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
@@ -5,6 +11,7 @@
 ```
 npm install
 ```
+
 Ese comando descargará todos los módulos de node necesarios para ejecutar el proyecto.
 
 
@@ -13,6 +20,7 @@ Ese comando descargará todos los módulos de node necesarios para ejecutar el p
 ```
 npm start
 ```
+
 Para que eso funcione, recuerden que deben de ejecutar ese comando en el mismo directorio donde se encuentra el ```package.json```
 
 ## Cambiar el puerto
@@ -23,5 +31,3 @@ Por defecto, el puerto que configuré para este proyecto es el ```8081```, pero 
 ```
 
 Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicamente graban los cambios antes de ejecutar el ```npm start``` nuevamente)
-
-
